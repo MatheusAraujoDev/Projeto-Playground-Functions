@@ -1,6 +1,6 @@
 
 # Boas Vindas ao projeto Playground Functions
-  Neste projeto, pude praticar bastante lógica de programação e desenvolver minhas habilidades com JavaScript.
+  Neste projeto, pude praticar bastante lógica de programação e desenvolver minhas habilidades com JavaScript. O desenvolvimento dos desafios pode ser visto no arquivo challenges.js dentro da pasta src.
 
 # Habilidades
 
